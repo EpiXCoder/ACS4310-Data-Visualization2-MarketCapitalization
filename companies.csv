@@ -1,0 +1,231 @@
+Year,company,Country,industry,market_cap
+2000,Microsoft,United States,Technology,586197
+2000,General Electric,United States,Conglomerate,474956
+2000,NTT Docomo,Japan,Telecommunications,366204
+2000,Cisco Systems,United States,Networking hardware,348965
+2000,Walmart,United States,Retail,286153
+2000,Intel,United States,Technology,277096
+2000,Nippon Telegraph & Telephone,Japan,Telecommunications,274905
+2000,ExxonMobil,United States,Oil and gas,265894
+2000,Lucent,United States,Telecommunications,237668
+2000,Deutsche Telekom,Germany,Telecommunications,209628
+2001,General Electric,United States,Conglomerate,477406
+2001,Cisco Systems,United States,Networking hardware,304699
+2001,ExxonMobil,United States,Oil and gas,286367
+2001,Pfizer,United States,Health care,263996
+2001,Microsoft,United States,Technology,258436
+2001,Walmart,United States,Retail,250955
+2001,Citigroup,United States,Banking,250143
+2001,Vodafone,United Kingdom,Telecommunications,227175
+2001,Intel,United States,Technology,227048
+2001,Royal Dutch Shell,Netherlands,Oil and gas,206340
+2002,General Electric,United States,Conglomerate,372089
+2002,Microsoft,United States,Technology,326639
+2002,ExxonMobil,United States,Oil and gas,299820
+2002,Walmart,United States,Retail,273220
+2002,Citigroup,United States,Banking,255299
+2002,Pfizer,United States,Health care,249021
+2002,Intel Corporation,United States,Technology,203838
+2002,BP,United Kingdom,Oil and gas,200794
+2002,Johnson & Johnson,United States,Health care,197912
+2002,Royal Dutch Shell,Netherlands,Oil and gas,189913
+2003,Microsoft,United States,Technology,264003
+2003,General Electric,United States,Conglomerate,259647
+2003,ExxonMobil,United States,Oil and gas,241037
+2003,Walmart,United States,Retail,234399
+2003,Pfizer,United States,Health care,195948
+2003,Citigroup,United States,Banking,183887
+2003,Johnson & Johnson,United States,Health care,170417
+2003,Royal Dutch Shell,Netherlands,Oil and gas,149034
+2003,BP,United Kingdom,Oil and gas,144381
+2003,IBM,United States,Technology,139272
+2004,General Electric,United States,Conglomerate,299336
+2004,Microsoft,United States,Technology,271911
+2004,ExxonMobil,United States,Oil and gas,263940
+2004,Pfizer,United States,Health care,261616
+2004,Citigroup,United States,Banking,259191
+2004,Walmart,United States,Retail,258888
+2004,American International Group,United States,Insurance,183696
+2004,Intel Corporation,United States,Technology,179996
+2004,BP,United Kingdom,Oil and gas,174648
+2004,HSBC,United Kingdom,Banking,163574
+2005,General Electric,United States,Conglomerate,382233
+2005,ExxonMobil,United States,Oil and gas,380567
+2005,Microsoft,United States,Technology,262975
+2005,Citigroup,United States,Banking,234437
+2005,BP,United Kingdom,Oil and gas,221365
+2005,Walmart,United States,Retail,212209
+2005,Royal Dutch Shell,Netherlands,Oil and gas,210630
+2005,Johnson & Johnson,United States,Health care,199711
+2005,Pfizer,United States,Health care,195945
+2005,Bank of America,United States,Banking,178765
+2006,ExxonMobil,United States,Oil and gas,446943
+2006,General Electric,United States,Conglomerate,383564
+2006,Microsoft,United States,Technology,293537
+2006,Citigroup,United States,Banking,273691
+2006,Gazprom,Russia,Energy,271482
+2006,ICBC,China,Banking,254592
+2006,Toyota,Japan,Automotive,241161
+2006,Bank of America,United States,Banking,239758
+2006,Royal Dutch Shell,United Kingdom,Oil and gas,225781
+2006,BP,United Kingdom,Oil and gas,218643
+2007,Petrochina,China,Oil and gas,723952
+2007,ExxonMobil,United States,Oil and gas,511887
+2007,General Electric,United States,Conglomerate,374637
+2007,China Mobile,China,Telecommunications,354120
+2007,ICBC,China,Banking,338989
+2007,Microsoft,United States,Technology,333054
+2007,Gazprom,Russia,Energy,329591
+2007,Royal Dutch Shell,Netherlands,Oil and gas,269544
+2007,AT&T,United States,Telecommunications,252051
+2007,Sinopec,China,Oil and gas,249645
+2008,ExxonMobil,United States,Oil and gas,406067
+2008,PetroChina,China,Oil and gas,259836
+2008,Walmart,United States,Retail,219898
+2008,China Mobile,China,Telecommunications,201291
+2008,Procter & Gamble,United States,Conglomerate,184576
+2008,ICBC,China,Banking,173930
+2008,Microsoft,United States,Technology,172929
+2008,AT&T,United States,Telecommunications,167950
+2008,Johnson & Johnson,United States,Health care,166002
+2008,General Electric,United States,Conglomerate,161278
+2009,PetroChina,China,Oil and gas,353140
+2009,ExxonMobil,United States,Oil and gas,323717
+2009,Microsoft,United States,Technology,270635
+2009,ICBC,China,Banking,268956
+2009,Walmart,United States,Retail,203654
+2009,China Construction Bank,China,Banking,201436
+2009,BHP Billiton,Australia,Mining,201248
+2009,HSBC,United Kingdom,Banking,199255
+2009,Petrobras,Brazil,Oil and gas,199108
+2009,Apple,United States,Technology,189802
+2010,ExxonMobil,United States,Oil and gas,368712
+2010,PetroChina,China,Oil and gas,303274
+2010,Apple,United States,Technology,295886
+2010,BHP Billiton,Australia,Mining,243540
+2010,Microsoft,United States,Technology,238785
+2010,ICBC,China,Banking,233369
+2010,Petrobras,Brazil,Oil and gas,229067
+2010,China Construction Bank,China,Oil and gas,222245
+2010,Royal Dutch Shell,Netherlands,Oil and gas,208594
+2010,Nestle,Switzerland,Food & Beverage,203534
+2011,ExxonMobil,United States,Oil and gas,406272
+2011,Apple,United States,Technology,376411
+2011,PetroChina,China,Oil and gas,276845
+2011,Royal Dutch Shell,Netherlands,Oil and gas,236677
+2011,ICBC,China,Banking,228168
+2011,Microsoft,United States,Technology,218380
+2011,IBM,United States,Technology,216724
+2011,Chevron Corporation,United States,Oil and gas,211894
+2011,Walmart,United States,Retail,204660
+2011,China Mobile,China,Telecommunications,196148
+2012,Apple,United States,Technology,500611
+2012,ExxonMobil,United States,Oil and gas,394611
+2012,PetroChina,China,Oil and gas,264833
+2012,BHP Billiton,Australia,Mining,247409
+2012,ICBC,China,Banking,236458
+2012,China Mobile,China,Telecommunications,234040
+2012,Walmart,United States,Retail,228245
+2012,Samsung Electronics,South Korea,Conglomerate,227582
+2012,Microsoft,United States,Technology,224801
+2012,Royal Dutch Shell,Netherlands,Oil and gas,222670
+2013,Apple,United States,Technology,504771
+2013,ExxonMobil,United States,Oil and gas,442143
+2013,Microsoft,United States,Technology,312297
+2013,Google,United States,Technology,310079
+2013,Berkshire Hathaway,United States,Conglomerate,292396
+2013,General Electric,United States,Conglomerate,283590
+2013,Johnson & Johnson,United States,Health care,258415
+2013,Walmart,United States,Retail,254623
+2013,Hoffmann La Roche,Switzerland,Pharmaceutical,241368
+2013,Chevron Corporation,United States,Oil and gas,240223
+2014,Apple,United States,Technology,647361
+2014,ExxonMobil,United States,Oil and gas,391482
+2014,Microsoft,United States,Technology,382880
+2014,Berkshire Hathaway,United States,Conglomerate,370653
+2014,Google,United States,Technology,329769
+2014,PetroChina,China,Oil and gas,305536
+2014,Johnson & Johnson,United States,Health care,292703
+2014,Wells Fargo,United States,Banking,284386
+2014,Walmart,United States,Retail,276807
+2014,ICBC,China,Banking,271146
+2015,Apple,United States,Technology,598344
+2015,Alphabet,United States,Technology,534090
+2015,Microsoft,United States,Technology,449799
+2015,Berkshire Hathaway,United States,Conglomerate,323750
+2015,ExxonMobil,United States,Oil and gas,325167
+2015,Amazon,United States,E-commerce,323009
+2015,General Electric,United States,Conglomerate,313892
+2015,Johnson & Johnson,United States,Health care,287153
+2015,Wells Fargo,United States,Banking,281770
+2015,JPMorgan Chase,United States,Banking,245126
+2016,Apple,United States,Technology,617588
+2016,Alphabet,United States,Technology,531970
+2016,Microsoft,United States,Technology,483160
+2016,Berkshire Hathaway,United States,Conglomerate,404390
+2016,ExxonMobil,United States,Oil and gas,374280
+2016,Amazon,United States,E-commerce,356313
+2016,Johnson & Johnson,United States,Health care,313432
+2016,JPMorgan Chase,United States,Banking,308768
+2016,General Electric,United States,Conglomerate,279546
+2016,Wells Fargo,United States,Banking,276779
+2017,Apple,United States,Technology,868880
+2017,Alphabet,United States,Technology,727040
+2017,Microsoft,United States,Technology,659910
+2017,Amazon,United States,E-commerce,563540
+2017,Facebook,United States,Social Media,512760
+2017,Tencent,China,Conglomerate,493340
+2017,Berkshire Hathaway,United States,Conglomerate,489490
+2017,Alibaba Group,China,E-commerce,440712
+2017,Johnson & Johnson,United States,Health care,375360
+2017,JPMorgan Chase,United States,Banking,371050
+2018,Microsoft,United States,Technology,780520
+2018,Apple,United States,Technology,748680
+2018,Amazon,United States,E-commerce,735900
+2018,Alphabet,United States,Technology,728360
+2018,Berkshire Hathaway,United States,Conglomerate,499590
+2018,Facebook,United States,Social Media,375890
+2018,Tencent,China,Conglomerate,375110
+2018,Alibaba Group,China,E-commerce,355130
+2018,Johnson & Johnson,United States,Health care,346110
+2018,JPMorgan Chase,United States,Banking,324660
+2019,Apple,United States,Technology,1305000
+2019,Microsoft,United States,Technology,1203000
+2019,Alphabet,United States,Technology,922130
+2019,Amazon,United States,E-commerce,916150
+2019,Facebook,United States,Social Media,585320
+2019,Alibaba Group,China,E-commerce,569010
+2019,Berkshire Hathaway,United States,Conglomerate,553530
+2019,Tencent,China,Conglomerate,461370
+2019,JPMorgan Chase,United States,Banking,437230
+2019,Visa,United States,Finance,416790
+2020,Apple,United States,Technology,2254000
+2020,Microsoft,United States,Technology,1682000
+2020,Amazon,United States,E-commerce,1634000
+2020,Alphabet,United States,Technology,1185000
+2020,Facebook,United States,Social Media,776590
+2020,Tencent,China,Conglomerate,683470
+2020,Tesla,United States,Automotive,668080
+2020,Alibaba Group,China,E-commerce,628650
+2020,TSMC,Taiwan,Technology,565280
+2020,Berkshire Hathaway,United States,Conglomerate,544780
+2021,Apple,United States,Technology,2913000
+2021,Microsoft,United States,Technology,2525000
+2021,Alphabet,United States,Technology,1922000
+2021,Amazon,United States,E-commerce,1691000
+2021,Tesla,United States,Automotive,1061000
+2021,Meta,United States,Technology,935640
+2021,Nvidia,United States,Technology,732920
+2021,Berkshire Hathaway,United States,Conglomerate,668630
+2021,TSMC,Taiwan,Technology,623930
+2021,Tencent,China,Conglomerate,559900
+2022,Apple,United States,Technology,2066000
+2022,Microsoft,United States,Technology,1787000
+2022,Alphabet,United States,Technology,1145000
+2022,Amazon,United States,E-commerce,856940
+2022,Berkshire Hathaway,United States,Conglomerate,681770
+2022,UnitedHealth,United States,Insurance,495370
+2022,Johnson & Johnson,United States,Health care,461840
+2022,ExxonMobil,United States,Oil and gas,454240
+2022,Visa,United States,Finance,439950
+2022,Tencent,China,Conglomerate,405090
